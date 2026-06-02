@@ -1,8 +1,9 @@
 ### Hi there, I am Sajid 👋
 
-- 🔭 Love writing Ruby
-- 🌱 Currently trying to explore Typescript, Elixir
+- 🔭 Love designing software and data infrastructures, & code
+- 🌱 Currently trying to explore de-conforming in ML, and AI Ethics 
 - 🍻 Ready to collaborate & contribute
 - 📫 Mailbox: reznov9185@gmail.com
 - 😄 Pronouns: he, him, his and they, them, theirs
-- 🗿 Leisure: reading, photography and listening to music
+- 🗿 Leisure: photography, reading, and listening to music. 
+<https://www.instagram.com/reznov9185/>
