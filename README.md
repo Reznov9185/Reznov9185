@@ -1,9 +1,7 @@
 ### Hi there, I am Sajid 👋
-
-- 🔭 Love designing software and data infrastructures, & code
-- 🌱 Currently trying to explore de-conforming in ML, and AI Ethics 
-- 🍻 Ready to collaborate & contribute
+- 🔭 Love designing software and data infrastructure & code
+- 🌱 Currently trying to explore physics-informed neural networks (PINNs), neurosymbolic AI, software/data engineering 
 - 📫 Mailbox: reznov9185@gmail.com
-- 😄 Pronouns: he, him, his and they, them, theirs
-- 🗿 Leisure: photography, reading, and listening to music. 
+- 😄 Pronouns: he/him/his and they/them/theirs
+- 🗿 Leisure: photography, nature-walks, reading, and listening to music. 
 <https://www.instagram.com/reznov9185/>
